@@ -1,0 +1,11 @@
+# ninja log v5
+4	1964	7368466696645624	CMakeFiles/Media_Library_ManagementV1_0.dir/main.cpp.obj	ef3ab72290aa4808
+1964	2070	7368466697679909	Media_Library_ManagementV1_0.exe	8bb6c8db0352ef3
+5	1975	7368465443966113	CMakeFiles/Media_Library_ManagementV1_0.dir/MysqlServer.cpp.obj	98e39ffa6ecf1c33
+6	273	7366998145710088	CMakeFiles/Media_Library_ManagementV1_0.dir/Help.cpp.obj	4144365abafd1cce
+8	272	7366973312103172	CMakeFiles/Media_Library_ManagementV1_0.dir/Book.cpp.obj	28de67d95ca87b12
+5	254	7366993126761146	CMakeFiles/Media_Library_ManagementV1_0.dir/Picture.cpp.obj	7e3070846e20f9a4
+9	283	7366990076298717	CMakeFiles/Media_Library_ManagementV1_0.dir/Video.cpp.obj	2560ca9fb13e09e0
+2	227	7373002886142016	build.ninja	6d92cb094e5f5df
+5	8479	7375558444826160	CMakeFiles/Media_Library_ManagementV1_0.dir/main.cpp.obj	ef3ab72290aa4808
+8479	11752	7375558477553684	Media_Library_ManagementV1_0.exe	8bb6c8db0352ef3
